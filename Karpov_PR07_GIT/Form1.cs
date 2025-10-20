@@ -34,8 +34,8 @@ namespace Karpov_PR07_GIT
 
             if (login == "admin" && password == "root")
             {
-                Form1 adminForm = new Form1();
-                adminForm.Show();
+                Form1 adminform = new Form1();
+                adminform.Show();
                 this.Hide();
             }
             else

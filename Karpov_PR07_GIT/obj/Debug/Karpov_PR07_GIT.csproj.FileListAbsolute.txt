@@ -8,3 +8,4 @@ C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\K
 C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.csproj.CoreCompileInputs.cache
 C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.exe
 C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.pdb
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.adminForm.resources
