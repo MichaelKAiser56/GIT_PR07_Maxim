@@ -22,15 +22,13 @@ namespace Karpov_PR07_GIT {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class adminForm {
+    public partial class adminForm {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal adminForm() {
-        }
         
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
@@ -67,6 +65,16 @@ namespace Karpov_PR07_GIT {
             get {
                 object obj = ResourceManager.GetObject("pictureBox1.InitialImage", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Point similar to {X=17,Y=17}.
+        /// </summary>
+        public static System.Drawing.Point timer1_TrayLocation {
+            get {
+                object obj = ResourceManager.GetObject("timer1.TrayLocation", resourceCulture);
+                return ((System.Drawing.Point)(obj));
             }
         }
     }
