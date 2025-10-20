@@ -16,5 +16,44 @@ namespace Karpov_PR07_GIT
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string login = textBox1.Text.Trim();
+            string password = textBox1.Text;
+
+            if (login == "admin" && password == "root")
+            {
+                Form1 adminForm = new Form1();
+                adminForm.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Неверный логин или пароль, попробуйте еще раз.");
+                textBox1.Clear();
+                textBox1.Focus();
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

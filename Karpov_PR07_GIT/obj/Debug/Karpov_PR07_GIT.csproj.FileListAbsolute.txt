@@ -1,0 +1,10 @@
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\bin\Debug\Karpov_PR07_GIT.exe.config
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\bin\Debug\Karpov_PR07_GIT.exe
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\bin\Debug\Karpov_PR07_GIT.pdb
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.csproj.AssemblyReference.cache
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.Form1.resources
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.Properties.Resources.resources
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.csproj.GenerateResource.cache
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.csproj.CoreCompileInputs.cache
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.exe
+C:\Users\79306\source\repos\Projects\Karpov_PR07_GIT\Karpov_PR07_GIT\obj\Debug\Karpov_PR07_GIT.pdb
